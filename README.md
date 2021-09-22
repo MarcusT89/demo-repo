@@ -5,4 +5,4 @@ And more
 
 ## subheader
 
-sub descriptiuon
+sub description
